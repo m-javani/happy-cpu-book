@@ -1,0 +1,7 @@
+[package]
+name = "spmv"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+wide = "1.7.1"
